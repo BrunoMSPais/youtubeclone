@@ -18,14 +18,15 @@ interface TimelineProps {
 }
 
 export function Timeline(props: TimelineProps) {
-	const playlistsNames = Object.keys(props.playlist)
+	// const playlistsNames = Object.keys(props.playlist)
+	// const videos = props.playlist[playlistName]
+	// console.log(videos)
+	// console.log(playlistName)
 
 	return (
 		<StyledTimeline>
-			{playlistsNames.map((playlistName: string) => {
-				const videos = props.playlist[playlistName]
-				console.log(playlistName)
-				console.log(videos)
+			{Object.keys(props.playlist).map((playlistName: string) => {
+				const videos = [props.playlist["front-end"], props.playlist["jogos"]]
 				return (
 					<section key={playlistName}>
 						<h2>{playlistName}</h2>
