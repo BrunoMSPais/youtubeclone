@@ -5,8 +5,10 @@ export const StyledMenu = styled.header`
   flex-direction: row;
   height: 56px;
   justify-content: space-between;
-  background-color: ${({ theme }) => theme.backgroundLevel1 || "#FFFFFF"};
-  border: 1px solid ${({ theme }) => theme.borderBase || "#e5e5e5"};
+  background-color: #FFFFFF;
+  border: 1px solid #e5e5e5;
+  /* background-color: ${({ theme }) => theme.backgroundLevel1 || "#FFFFFF"};
+  border: 1px solid ${({ theme }) => theme.borderBase || "#e5e5e5"}; */
   align-items: center;
   padding: 0 16px;
   gap: 16px;
@@ -21,7 +23,8 @@ export const StyledMenu = styled.header`
       max-width: 127px;
     }
     .text {
-      fill: ${({ theme }) => theme.textColorBase || "#222222"};
+      fill: #222222;
+      /* fill: ${({ theme }) => theme.textColorBase || "#222222"}; */
     }
   }
 `;
