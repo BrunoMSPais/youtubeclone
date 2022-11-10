@@ -1,0 +1,172 @@
+{
+	"name": "Bruno Pais",
+	"job": "Junior Software Developer",
+	"github": "BrunoMSPais",
+	"playlists": {
+		"videos favoritos": [
+			{
+				"title": "Magic The Gathering - Como jogar",
+				"url": "https://www.youtube.com/watch?v=-ZmT8aS0ziY&list=PL484-wi9YYOK4x1KFN-fZMqwRgRD0nQVA&index=1",
+				"thumb": "https://i.ytimg.com/vi/-ZmT8aS0ziY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD126eV6ciE3KmHJ8Q99HmIlZAuZg"
+			},
+            {
+				"title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+				"url": "https://youtube.com/watch?v=jOAU81jdi-c",
+				"thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+			},
+            {
+				"title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+				"url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+				"thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+			},
+			{
+				"title": "FM22 - 5 coisas que deves fazer quando começas um save",
+				"url": "https://www.youtube.com/watch?v=z7v_GJgT9Hc&list=PLF6wE6GcSV2lbxQEDTC2VWAXE_ZwBErbc&index=2",
+				"thumb": "https://i.ytimg.com/vi/z7v_GJgT9Hc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBuiAdMwqoidmLxEwi1DL8U08iHuA"
+			}
+		],
+		"jogos": [
+			{
+				"title": "Magic The Gathering - Como jogar",
+				"url": "https://www.youtube.com/watch?v=-ZmT8aS0ziY&list=PL484-wi9YYOK4x1KFN-fZMqwRgRD0nQVA&index=1",
+				"thumb": "https://i.ytimg.com/vi/-ZmT8aS0ziY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD126eV6ciE3KmHJ8Q99HmIlZAuZg"
+			},
+			{
+				"title": "Magic The Gathering - As mecânicas de Brothers War",
+				"url": "https://www.youtube.com/watch?v=JAvvT2_7aHc&list=PL484-wi9YYOIpHL8A-cEdpPa0leIfMmy6&index=1",
+				"thumb": "https://i.ytimg.com/vi/JAvvT2_7aHc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBi0hWOlvna3XurnNtMoir8nW37OQ"
+			},
+			{
+				"title": "Magic The Gathering - As mecânicas de Dominaria United",
+				"url": "https://www.youtube.com/watch?v=ZJH_OtwDk5k&list=PL484-wi9YYOLWf8m8_Oyg9L3twJ7IZCi4&index=3",
+				"thumb": "https://i.ytimg.com/vi/ZJH_OtwDk5k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDVawEzs6MCfWk49aZfGTR-eN57og"
+			},
+			{
+				"title": "Magic The Gathering - As mecânicas de Streets of New Capenna",
+				"url": "https://www.youtube.com/watch?v=xCVF_fZ9MH4&list=PL484-wi9YYOL-2QB-KpUfTIp7zJcc_5kU&index=1",
+				"thumb": "https://i.ytimg.com/vi/xCVF_fZ9MH4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB072Qp54bRFzE-8O0AHj27TSqxYQ"
+			},
+			{
+				"title": "Netdecking Estraga o Magic?",
+				"url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
+				"thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+			},
+			{
+				"title": "FM22 - 5 coisas que deves fazer quando começas um save",
+				"url": "https://www.youtube.com/watch?v=z7v_GJgT9Hc&list=PLF6wE6GcSV2lbxQEDTC2VWAXE_ZwBErbc&index=2",
+				"thumb": "https://i.ytimg.com/vi/z7v_GJgT9Hc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBuiAdMwqoidmLxEwi1DL8U08iHuA"
+			},
+			{
+				"title": "FM23 - FM23 for dummies!",
+				"url": "https://www.youtube.com/watch?v=yr0c5l-L9dI&list=PLF6wE6GcSV2mtb4VsPZUSDy0xnYMLEKDV&index=2",
+				"thumb": "https://i.ytimg.com/vi/yr0c5l-L9dI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCIKtkaMupkcNY2z9JhJvPL4RyPXQ"
+			},
+			{
+				"title": "FM23 - Ideias de save",
+				"url": "https://www.youtube.com/watch?v=V_6mPDudR9g&list=PLF6wE6GcSV2mtb4VsPZUSDy0xnYMLEKDV&index=1",
+				"thumb": "https://i.ytimg.com/vi/V_6mPDudR9g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGtCeRTAV6yjRYsQw806XITXUinw"
+			}
+		],
+		"front-end": [
+			{
+				"title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+				"url": "https://youtube.com/watch?v=jOAU81jdi-c",
+				"thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+			},
+			{
+				"title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+				"url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+				"thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+			},
+			{
+				"title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
+				"url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+				"thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+			},
+			{
+				"title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+				"url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+				"thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+			},
+			{
+				"title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+				"url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+				"thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+			},
+			{
+				"title": "Como Foi Programado um App Que Faz Mágica",
+				"url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+				"thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+			},
+			{
+				"title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+				"url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+				"thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+			},
+			{
+				"title": "5 Erros Históricos do CSS",
+				"url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+				"thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+			},
+			{
+				"title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+				"url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+				"thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+			}
+		],
+		"back-end": [
+			{
+				"title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+				"url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+				"thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+			},
+			{
+				"title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+				"url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+				"thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+			},
+			{
+				"title": "O que é o Java? #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+				"thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+			},
+			{
+				"title": "O que é Machine Learning? #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+				"thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+			},
+			{
+				"title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+				"thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+			},
+			{
+				"title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+				"thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+			},
+			{
+				"title": "O que é o C#? #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+				"thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+			}
+		]
+	},
+	"fav-tubers": [
+		{
+			"name": "Alura",
+			"url": "https://www.youtube.com/user/aluracursosonline",
+			"thumb": "https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s176-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"name": "Dev Soutinho",
+			"url": "https://www.youtube.com/c/DevSoutinho",
+			"thumb": "https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s176-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"name": "UMotivo",
+			"url": "https://www.youtube.com/c/UMotivo",
+			"thumb": "https://yt3.ggpht.com/ytc/AMLnZu8gSLGolWmh-hWV8xDFl9bk7bezT7RVDJXztHVVyA=s176-c-k-c0x00ffffff-no-rj"
+		}
+	]
+}
